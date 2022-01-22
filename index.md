@@ -1,15 +1,13 @@
-# Coffee Info Table (CIS110 Project)
+# Word Guessing Game (CIS111 Project)
 
 Below is a video of the website as it displays in the browser:
 
 
-[![Website Display](https://yt-embed.herokuapp.com/embed?v=KtciOYQrbS8)](https://www.youtube.com/watch?v=KtciOYQrbS8 "Coffee Website")
+[![Website Display](https://yt-embed.herokuapp.com/embed?v=v=bM0TXqSrlwk)](https://www.youtube.com/watch?v=v=bM0TXqSrlwk "Word Game Website")
 
 
 ## Source Code
-- HTML: [Home Page](https://github.com/lizz02/cis110-p3/blob/main/p3/home.html) | [Coffee Page](https://github.com/lizz02/cis110-p3/blob/main/p3/coffee.html) | [Espresso Page](https://github.com/lizz02/cis110-p3/blob/main/p3/espresso.html) | [Latte Page](https://github.com/lizz02/cis110-p3/blob/main/p3/latte.html) | [Cappuccino Page](https://github.com/lizz02/cis110-p3/blob/main/p3/cappuccino.html)
-- CSS: [Style Sheet](https://github.com/lizz02/cis110-p3/blob/main/p3/p3.css)
-
+- JavaScript: [Game Play](https://github.com/lizz02/cis111-p5/blob/main/p5-words.js) | [Word Array](https://github.com/lizz02/cis111-p5/blob/main/p5.js)
 
 
 [Return to the main page](https://lizz02.github.io/)
